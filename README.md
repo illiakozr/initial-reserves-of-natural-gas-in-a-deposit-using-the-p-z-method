@@ -6,6 +6,8 @@ a) set of pairs: pressure [bar] - total natural gas production [million Nm3]; <b
 b) reservoir temperature [K];<br/>
 c) composition of natural gas [mole percentage]; assumption: mixture of methane, ethane, propane, carbon dioxide, nitrogen.<br/>
 
+Output data: <br/>
 a) a diagram illustrating the p/z method;<br/>
 b) the initial reserves of natural gas in the field [million Nm3].<br/>
 
+![Image of App](https://github.com/illiakozr/initial-reserves-of-natural-gas-in-a-deposit-using-the-p-z-method/blob/master/photo.png)
